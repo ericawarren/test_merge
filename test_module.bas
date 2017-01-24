@@ -9,6 +9,6 @@ End Sub
 
 Sub testSub2()
   Dim strTest2 As String
-  strTest2 = "This is a different thing now."
+  strTest2 = "Trying an even different thing."
   MsgBox strTest2
 End Sub
